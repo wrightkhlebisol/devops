@@ -1,0 +1,4 @@
+actions-runner
+**/**.tfstate*
+**/.terraform*
+.DS_Store
